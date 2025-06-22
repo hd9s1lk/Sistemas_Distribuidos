@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Dias\\Desktop\\GrpcGreeterClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{448CDA2F-3FEE-4A08-A42D-D04B0DF6608C}|GrpcGreeterClient.csproj|c:\\users\\henrique dias\\desktop\\grpcgreeterclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448CDA2F-3FEE-4A08-A42D-D04B0DF6608C}|GrpcGreeterClient.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448CDA2F-3FEE-4A08-A42D-D04B0DF6608C}|GrpcGreeterClient.csproj|c:\\users\\henrique dias\\desktop\\grpcgreeterclient\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{448CDA2F-3FEE-4A08-A42D-D04B0DF6608C}|GrpcGreeterClient.csproj|solutionrelative:protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Desktop\\GrpcGreeterClient\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Desktop\\GrpcGreeterClient\\Protos\\greet.proto",
+              "RelativeToolTip": "Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-05-22T16:18:30.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Dias\\Desktop\\GrpcGreeterClient\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Dias\\Desktop\\GrpcGreeterClient\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:59:47.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

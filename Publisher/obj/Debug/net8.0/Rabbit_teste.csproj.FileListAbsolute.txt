@@ -1,0 +1,5 @@
+C:\Users\Henrique Dias\Desktop\Rabbit_teste\obj\Debug\net8.0\Rabbit_teste.csproj.AssemblyReference.cache
+C:\Users\Henrique Dias\Desktop\Rabbit_teste\obj\Debug\net8.0\Rabbit_teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique Dias\Desktop\Rabbit_teste\obj\Debug\net8.0\Rabbit_teste.AssemblyInfoInputs.cache
+C:\Users\Henrique Dias\Desktop\Rabbit_teste\obj\Debug\net8.0\Rabbit_teste.AssemblyInfo.cs
+C:\Users\Henrique Dias\Desktop\Rabbit_teste\obj\Debug\net8.0\Rabbit_teste.csproj.CoreCompileInputs.cache
